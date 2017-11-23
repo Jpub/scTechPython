@@ -15,9 +15,8 @@
 
 [### 도서 소개 페이지 바로 가기 ###](http://jpub.tistory.com/738)
 
-_ _ _
 
-### 원서 지원 페이지와 깃헙
+#### 원서 지원 페이지와 깃헙
 
 지원 웹페이지: https://pyjbooks.github.io/py4science/  
 깃헙 저장소: https://github.com/pyjbooks/py4science                     
