@@ -21,7 +21,7 @@ im = plt.imshow(z, interpolation='bilinear', origin='lower',
                 cmap=cm.gray, extent=(-3, 3, -2, 2))
 
 # (2) 등고선 표시
-levels = np.arange(-3, 2.5, 0.5)
+levels = np.arange(-2.5, 2.5, 0.5)
 ctr = plt.contour(z, levels, colors='k', origin='lower',
                   linewidths=2, extent=(-3, 3, -2, 2))
 
